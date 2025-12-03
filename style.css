@@ -1,0 +1,27 @@
+h1 {
+    font-size: 30px;
+    text-align: center;
+    color: #bea077
+}
+
+h2 {
+    font-size: 25px;
+    text-align: center;
+    color: #bea077
+}
+
+p {
+    font-size: 17px;
+    text-align: left;
+    color: #ffffff;
+    font-family: 'The Minion', sans-serif;
+}
+
+body {
+    background-color: #193e18;
+}
+
+a {
+    color: #bea077;
+    font-size: 22px;
+}
